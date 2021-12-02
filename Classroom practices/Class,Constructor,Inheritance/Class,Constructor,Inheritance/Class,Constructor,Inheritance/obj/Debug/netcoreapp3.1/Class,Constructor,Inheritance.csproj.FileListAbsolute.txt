@@ -1,0 +1,14 @@
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\bin\Debug\netcoreapp3.1\Class,Constructor,Inheritance.exe
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\bin\Debug\netcoreapp3.1\Class,Constructor,Inheritance.deps.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\bin\Debug\netcoreapp3.1\Class,Constructor,Inheritance.runtimeconfig.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\bin\Debug\netcoreapp3.1\Class,Constructor,Inheritance.runtimeconfig.dev.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\bin\Debug\netcoreapp3.1\Class,Constructor,Inheritance.dll
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\bin\Debug\netcoreapp3.1\Class,Constructor,Inheritance.pdb
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.csproj.AssemblyReference.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.AssemblyInfoInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.AssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.dll
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.pdb
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Class,Constructor,Inheritance\Class,Constructor,Inheritance\Class,Constructor,Inheritance\obj\Debug\netcoreapp3.1\Class,Constructor,Inheritance.genruntimeconfig.cache
