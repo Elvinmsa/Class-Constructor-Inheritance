@@ -45,18 +45,30 @@ namespace Class_Constructor_Inheritance
             //Console.WriteLine("Student full data: " + st1.FullData());
 
 
-            Student st2 = new Student(22);
-            Teacher tc1 = new Teacher(18);
+            //Student st2 = new Student(22);
+            //Teacher tc1 = new Teacher(18);
 
-            Person p = new Person(11);
+            //Person p = new Person(11);
 
-            Console.WriteLine(p.GetAge());
+            //Console.WriteLine(p.GetAge());
 
 
             //st2.name = "Elshen";
             //st2.surname = "Eliyev";
             //st2.age = 24;
             //Console.WriteLine(st2.name + " " + st2.surname);
+
+            #region Homework2
+
+            //Factorial factorial = new Factorial();
+            //Console.WriteLine(factorial.CalculateFactorial(5));
+
+            #endregion
+
+            #region Homework3
+            Account account = new Account();
+            account.Login("cavid@code.edu.az", "12345");
+            #endregion
 
         }
     }

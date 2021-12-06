@@ -1,0 +1,14 @@
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\bin\Debug\netcoreapp3.1\Access Modifiers.exe
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\bin\Debug\netcoreapp3.1\Access Modifiers.deps.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\bin\Debug\netcoreapp3.1\Access Modifiers.runtimeconfig.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\bin\Debug\netcoreapp3.1\Access Modifiers.runtimeconfig.dev.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\bin\Debug\netcoreapp3.1\Access Modifiers.dll
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\bin\Debug\netcoreapp3.1\Access Modifiers.pdb
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.csproj.AssemblyReference.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.AssemblyInfoInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.AssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.dll
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.pdb
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\Access Modifiers\Access Modifiers\obj\Debug\netcoreapp3.1\Access Modifiers.genruntimeconfig.cache

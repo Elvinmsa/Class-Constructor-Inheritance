@@ -1,0 +1,14 @@
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\bin\Debug\netcoreapp3.1\CSharp intro.exe
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\bin\Debug\netcoreapp3.1\CSharp intro.deps.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\bin\Debug\netcoreapp3.1\CSharp intro.runtimeconfig.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\bin\Debug\netcoreapp3.1\CSharp intro.runtimeconfig.dev.json
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\bin\Debug\netcoreapp3.1\CSharp intro.dll
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\bin\Debug\netcoreapp3.1\CSharp intro.pdb
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.csproj.AssemblyReference.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.AssemblyInfoInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.AssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.csproj.CoreCompileInputs.cache
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.dll
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.pdb
+C:\Users\SADIGOV\Desktop\P126\Classroom practices\CSharp intro\CSharp intro\obj\Debug\netcoreapp3.1\CSharp intro.genruntimeconfig.cache

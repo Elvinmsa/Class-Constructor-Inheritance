@@ -36,14 +36,14 @@ namespace Class_Constructor_Inheritance
         //    return $"{FullName()} {age}";
         //}
 
-        public Student(int num) : base(num)
-        {
-            this.age = num;
-        }
+        //public Student(int num) : base(num)
+        //{
+        //    this.age = num;
+        //}
 
-        public string FullData()
-        {
-            return $"{name} {surname} {age}";
-        }
+        //public string FullData()
+        //{
+        //    return $"{name} {surname} {age}";
+        //}
     }
 }
